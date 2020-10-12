@@ -1,4 +1,4 @@
-# repocirorioexamen
-ejemplo con pagina web.
+# Repositoorio Examen
+Ejemplo con pagina web.
 Crearemos un repositorio _GitHub_
-Aqui hise otro cambio para que herramienta lo detecte
+Aqui hice otro cambio para que la herramienta lo detecte.
